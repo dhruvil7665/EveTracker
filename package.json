@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jscomplete/learn-fullstack-javascript.git"
+    "url": "https://github.com/dhruvil7665/EveTracker"
   },
-  "author": "",
+  "author": "Dhruvil Shah",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/jscomplete/learn-fullstack-javascript/issues"
+    "url": "https://github.com/dhruvil7665/EveTracker"
   },
-  "homepage": "https://github.com/jscomplete/learn-fullstack-javascript#readme",
+  "homepage": "https://github.com/dhruvil7665/EveTracker",
   "dependencies": {
     "axios": "^0.15.0",
     "body-parser": "^1.15.2",
